@@ -1,10 +1,10 @@
-const { Classes } = require("../../models");
+const { Users } = require("../../models");
 const service = async (req, res) => {
   try {
     const payload = req.body;
-    const requestDB = await Classes.create(payload);
+    const requestDB = await Users.create(payload);
     return res.json({
-      msg: "Class created successfully",
+      msg: "User registered successfully",
       data: requestDB,
     });
   } catch (error) {
@@ -13,5 +13,4 @@ const service = async (req, res) => {
     });
   }
 };
-
 module.exports = { service };
