@@ -1,8 +1,5 @@
-'use strict';
-const {
-  Model,
-  Sequelize
-} = require('sequelize');
+"use strict";
+const { Model, Sequelize } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
   class Sessions extends Model {
     /**
@@ -10,23 +7,29 @@ module.exports = (sequelize, DataTypes) => {
      * This method is not a part of Sequelize lifecycle.
      * The `models/index` file will call this method automatically.
      */
-    static associate(models) {
+    static associate({ Classes, Sessions, Materials }) {
       // define association here
+      Sessions.belongsTo(Classes);
+      Sessions.hasOne(Materials);
     }
   }
-  Sessions.init({
-    id: {
-      type:DataTypes.UUID,
-      primaryKey: true,
-      defaultValue: DataTypes.UUIDV4,
+  Sessions.init(
+    {
+      id: {
+        type: DataTypes.UUID,
+        primaryKey: true,
+        defaultValue: Sequelize.UUIDV4,
+      },
+      classId: DataTypes.UUID,
+      name: DataTypes.STRING,
+      description: DataTypes.TEXT,
+      start: DataTypes.DATE,
+      end: DataTypes.DATE,
     },
-    name: DataTypes.STRING,
-    description: DataTypes.TEXT,
-    start: DataTypes.DATE,
-    end: DataTypes.DATE
-  }, {
-    sequelize,
-    modelName: 'Sessions',
-  });
+    {
+      sequelize,
+      modelName: "Sessions",
+    }
+  );
   return Sessions;
 };

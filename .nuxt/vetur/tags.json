@@ -1,0 +1,47 @@
+{
+  "FloatingButton": {
+    "description": "Auto imported from components/FloatingButton.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Title": {
+    "description": "Auto imported from components/Title.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "BootstrapCard": {
+    "description": "Auto imported from components/bootstrap/Card.vue"
+  },
+  "CrudClass": {
+    "description": "Auto imported from components/crud/Class.vue"
+  },
+  "InputButton": {
+    "description": "Auto imported from components/input/Button.vue"
+  },
+  "InputText": {
+    "description": "Auto imported from components/input/Text.vue"
+  },
+  "PartialsFooter": {
+    "description": "Auto imported from components/partials/Footer.vue"
+  },
+  "PartialsMain": {
+    "description": "Auto imported from components/partials/Main.vue"
+  },
+  "PartialsNavbar": {
+    "description": "Auto imported from components/partials/Navbar.vue"
+  },
+  "PartialsSidebar": {
+    "description": "Auto imported from components/partials/Sidebar.vue"
+  },
+  "SandboxAdd": {
+    "description": "Auto imported from components/sandbox/add.vue"
+  },
+  "SandboxListItem": {
+    "description": "Auto imported from components/sandbox/listItem.vue"
+  },
+  "SandboxOption": {
+    "description": "Auto imported from components/sandbox/option.vue"
+  }
+}

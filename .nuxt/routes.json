@@ -1,0 +1,121 @@
+[
+  {
+    "name": "belajar",
+    "path": "/belajar",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\belajar\\\\index.vue",
+    "chunkName": "pages/belajar/index",
+    "_name": "_f2246ffe"
+  },
+  {
+    "name": "class",
+    "path": "/class",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\class\\\\index.vue",
+    "chunkName": "pages/class/index",
+    "_name": "_5d6c680c"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\home.vue",
+    "chunkName": "pages/home",
+    "_name": "_5cf67f91"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_5fbe5927"
+  },
+  {
+    "name": "my-class",
+    "path": "/my-class",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\my-class.vue",
+    "chunkName": "pages/my-class",
+    "_name": "_f996a86e"
+  },
+  {
+    "name": "presence",
+    "path": "/presence",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\presence.vue",
+    "chunkName": "pages/presence",
+    "_name": "_0e5346a6"
+  },
+  {
+    "name": "sandbox-1",
+    "path": "/sandbox-1",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\sandbox-1.vue",
+    "chunkName": "pages/sandbox-1",
+    "_name": "_0e40372e"
+  },
+  {
+    "name": "stisla",
+    "path": "/stisla",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\stisla.vue",
+    "chunkName": "pages/stisla",
+    "_name": "_0b6a01b2"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index",
+    "_name": "_501bc536"
+  },
+  {
+    "name": "belajar-slot",
+    "path": "/belajar/slot",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\belajar\\\\slot.vue",
+    "chunkName": "pages/belajar/slot",
+    "_name": "_0724391f"
+  },
+  {
+    "name": "class-add",
+    "path": "/class/add",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\class\\\\add.vue",
+    "chunkName": "pages/class/add",
+    "_name": "_e3dd8e4a"
+  },
+  {
+    "name": "user-admin",
+    "path": "/user/admin",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\user\\\\admin\\\\index.vue",
+    "chunkName": "pages/user/admin/index",
+    "_name": "_02d2f0e0"
+  },
+  {
+    "name": "user-ghany",
+    "path": "/user/ghany",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\user\\\\ghany.vue",
+    "chunkName": "pages/user/ghany",
+    "_name": "_9e4d9504"
+  },
+  {
+    "name": "user-admin-user",
+    "path": "/user/admin/:user",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\user\\\\admin\\\\_user.vue",
+    "chunkName": "pages/user/admin/_user",
+    "_name": "_2877c0b8"
+  },
+  {
+    "name": "class-id",
+    "path": "/class/:id",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\class\\\\_id.vue",
+    "chunkName": "pages/class/_id",
+    "_name": "_2cccfd74"
+  },
+  {
+    "name": "user-id",
+    "path": "/user/:id",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\user\\\\_id.vue",
+    "chunkName": "pages/user/_id",
+    "_name": "_e07b95e6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\chris\\\\repo-fs6\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_d3d293e0"
+  }
+]
